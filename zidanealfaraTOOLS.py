@@ -1,7 +1,7 @@
 print('''<<[ Assalamualaikum Warahmatullahi Wabarakatuh ]>>
 
      [Selamat datang]
-     [@dopplegangger1]
+     [zidanealfaraTOOLS]
      
 ''')
 
@@ -60,7 +60,6 @@ def MelacakORANG():
  os.system('pkg install php')
  os.system('pkg install mechanize')
  os.system('git clone https://github.com/thelinuxchoice/locator')
- os.system('cd locator')
  os.system('cd locator')
  os.system('tsu')
  os.system('bash locator.sh')
