@@ -34,7 +34,7 @@ def Sqlmap():
 def Metasploit_termux():
  print(f'[!] Menginstall tools Metasploit-framework..')
  os.system('apt install wget')
- os.system('apt install ruby')
+ os.system('pkg install ruby')
  os.system('pkg install curl')
  os.system('git clone https://github.com/Hax4us/Metasploit_termux')
  os.system('cd metasploit-termux')
